@@ -1,2 +1,2 @@
-# Tern_Color_Scale
-Once uppon a time, I needed a ternary colorscale. Inspired by https://github.com/jschoeley/tricolore, here a python code to get a tricolor scale in Python.
+# Tern_Color_Scale (Tern-CS)
+Once uppon a time, I needed a ternary colorscale. Inspired by [jschoeley](https://github.com/jschoeley/tricolore), here a solution in Python to generate a tricolor scale on your matplotlib figure.
